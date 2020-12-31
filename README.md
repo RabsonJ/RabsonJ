@@ -3,7 +3,7 @@
 <h3 align="center">I'm a full-stack developer  with an eye for UI/UX</h3>
 
 <p align="center">
- <img src="resources/banner.jpg" />
+ <img src="/resources/banner.jpg" alt="Rabson J Phiri banner image"/>
 </p>
 
 
