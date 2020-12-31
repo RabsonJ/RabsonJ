@@ -1,62 +1,34 @@
-# Hi, I'm Rabson
+<h1 align="center">Hi 👋, I'm Rabson</h1>
+
+<h3 align="center">I'm a full-stack developer  with an eye for UI/UX</h3>
+
+<p align="center">
+ <img src="resources/banner.jpg" />
+</p>
 
 
+- 🌱 I’m currently learning **Node.js**
 
-### I'm a Developer and Student! I'm passionate about Front End Development 
+- 🥅 2021 Goals: 
+   - Contribute more to **Open Source**
+   - Learn **React.js, Python & Flutter/Dart**
+   - Deepen my knowledge of **Node.js & PHP**
 
-- 🔭 I’m currently learning JavaScript!
-- 👯 I’m looking to collaborate with other newbies
-- 🥅 2020 Goals: Make my first contribution to Open Source
+- 📝 I regulary write articles on [https://hashnode.com/@RabsonJ](https://hashnode.com/@RabsonJ)
+
+- ⚡ Fun fact **I love Cats**
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/rabson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rabson" height="30" width="40" /></a>
+<a href="https://dev.to/rabsonj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rabsonj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rabsonjphiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rabsonjphiri" height="30" width="40" /></a>
+</p>
 
-### Connect with me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/thepsychodev?color=%231DA1F2&logo=Twitter&style=for-the-badge)
-[<img align="left" alt="Rabson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabsonj&show_icons=true&locale=en&layout=compact" alt="rabsonj" /></p>
 
-<br />
-
----
-
-<br />
-
-### Languages and Tools:
-
-<!--- https://github.com/Ileriayo/markdown-badges --->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img align="left" style="padding-bottom: 2px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabsonj&show_icons=true&locale=en" alt="rabsonj" /></p>
