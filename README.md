@@ -11,7 +11,7 @@
 
 - 🥅 2021 Goals: 
    - Contribute more to **Open Source**
-   - Learn **React.js, Python & Flutter/Dart**
+   - Learn **React.js, React Native and Python**
    - Deepen my knowledge of **Node.js & PHP**
 
 - 📝 I regulary write articles on [https://hashnode.com/@RabsonJ](https://hashnode.com/@RabsonJ)
