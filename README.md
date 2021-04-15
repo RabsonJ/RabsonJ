@@ -18,7 +18,7 @@
    - Learn **React.js, React Native and Python**
    - Deepen my knowledge of **Node.js & PHP**
 
-- 📝 I regulary write articles on [https://hashnode.com/@RabsonJ](https://hashnode.com/@RabsonJ)
+- 📝 I regularly write articles on [https://hashnode.com/@RabsonJ](https://hashnode.com/@RabsonJ)
 
 - ⚡ Fun fact: **I love Cats**
 
@@ -26,7 +26,27 @@
 
 <h3 align="left">🧰 ToolBox</h3>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS Logo" width="50" height="50"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Node.js Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/>
 
 ---
 
