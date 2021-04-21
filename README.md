@@ -33,7 +33,7 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Making a simple Tic-Tac-Toe game in JavaScript](https://rabsonj.hashnode.dev/making-a-simple-tic-tac-toe-game-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more blog articles](https://hashnode.com/@RabsonJ)
